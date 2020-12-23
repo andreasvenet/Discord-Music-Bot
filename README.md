@@ -6,7 +6,7 @@ Things you'll need: <br>
 - OpenJDK 13.0.2: https://jdk.java.net/archive/ <br>
 - Lavalink: https://ci.fredboat.com/viewLog.html?buildId=lastSuccessful&buildTypeId=Lavalink_Build&tab=artifacts&guest=1# <br>
 
-Setup: Add the Lavalink.jar file into jdk-13.0.2\bin <br>
+Setup: Download and the Lavalink.jar file into jdk-13.0.2\bin <br>
 Run Lavalink.jar file <br>
 Run launcher.py<br>
 
